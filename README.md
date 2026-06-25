@@ -6,10 +6,6 @@
 
 A comprehensive, terminal-based implementation of the classic UNO card game written entirely in C++. This project was developed as a semester project to demonstrate strong foundational skills in Object-Oriented Programming (OOP), dynamic memory management, and data structure implementation.
 
-## 🎥 Demo
-
-
-[![UNO Game Demo](https://img.shields.io/badge/Watch-Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
 
 ## 📑 Table of Contents
 * [Features](#-features)
