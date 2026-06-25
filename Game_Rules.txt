@@ -1,0 +1,41 @@
+=================== Uno Game Console Application ==============
+Getting Started
+1. Run the Code:
+
+- Open the project in Visual Studio Community.
+- Press Ctrl + F5 to build and run the code.
+
+2.Input Player Names:
+
+- When prompted, enter the names of the players.
+
+3. Start the Game:
+
+- Press Enter to start the game.
+
+================================== Gameplay ============================
+
+1. Game State Display:
+
+- The top card on the discard pile will be shown.
+- The current player's name and their hand deck will be displayed.
+
+2. Player's Turn:
+
+- To play a card, type "play" and press Enter.
+- To draw a card, type "draw" and press Enter.
+
+3. Wild Card Play:
+
+- If playing a wild card, enter the declared color when prompted.
+- Valid colors: Red, Blue, Green, Yellow.
+
+4. Next Iteration:
+
+- After each move, press Enter to proceed to the next iteration.
+
+================================== Note: ==================================
+
+- The game continues until a player wins or an error occurs.
+- The console interface provides clear feedback on the game state.
+- Enjoy the Uno Game Console Application!
